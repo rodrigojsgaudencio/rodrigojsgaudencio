@@ -3,6 +3,9 @@
 </h1>
 
 <div align="center">
+    <p style="color: #8b949e; font-size: 16px;">Engenharia Informática @ ISEC</p>
+    <p style="color: #c9d1d9; font-size: 15px;">Foco em Redes, Cibersegurança e Criptografia.</p>
+  <br>
     <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
