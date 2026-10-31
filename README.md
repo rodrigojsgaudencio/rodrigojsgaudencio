@@ -7,11 +7,5 @@
    <p style="font-family: 'Righteous', cursive; color: #c9d1d9; font-size: 16px; margin-top: 10px;">
     Computer Engineering student at ISEC, fascinated by Networking and Cybersecurity.
        <br/>
-  </p>
-    <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigogaudencio">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigojsgaudencio&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-</a>
-</p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
 </div>
