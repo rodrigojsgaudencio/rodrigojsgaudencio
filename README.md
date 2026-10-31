@@ -4,7 +4,7 @@
 
 <div align="center">
     <p style="color: #8b949e; font-size: 16px;">Estudante de Engenharia Informática no ISEC</p>
-    <p style="color: #c9d1d9; font-size: 15px;">Redes e Cibersegurança</p>
+    <p style="color: #c9d1d9; font-size: 15px;">Fascinado por Redes e Cibersegurança</p>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
