@@ -8,9 +8,9 @@
     Computer Engineering student at ISEC, fascinated by Networking and Cybersecurity.
   </p>
     <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-gaudencio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/rodrigogaudencio">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
+</a>
 </p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
 </div>
