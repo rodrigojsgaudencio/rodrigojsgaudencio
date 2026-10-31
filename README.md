@@ -10,7 +10,7 @@
   </p>
     <p align="center">
   <a href="https://www.linkedin.com/in/rodrigogaudencio">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigojsgaudencio&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </a>
 </p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
