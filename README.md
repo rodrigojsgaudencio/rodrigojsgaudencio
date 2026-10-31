@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <p style="color: #c9d1d9; font-size: 16px; max-width: 600px; margin: 0 auto;">
+    <p style="color: #c9d1d9; font-size: 20px; max-width: 600px; margin: 0 auto;">
     Estudante de Engenharia Informática no ISEC, fascinado por Redes e Cibersegurança.
   </p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
