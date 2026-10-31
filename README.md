@@ -6,7 +6,6 @@
     <p style="color: #c9d1d9; font-size: 16px; max-width: 600px; margin: 0 auto;">
     Estudante de Engenharia Informática no ISEC, fascinado por Redes e Cibersegurança.
   </p>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
