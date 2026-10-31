@@ -7,5 +7,10 @@
    <p style="font-family: 'Righteous', cursive; color: #c9d1d9; font-size: 16px; margin-top: 10px;">
     Computer Engineering student at ISEC, fascinated by Networking and Cybersecurity.
   </p>
+    <p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-gaudencio">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rodrigojsgaudencio/rodrigojsgaudencio/output/github-contribution-grid-snake-dark.svg" />
 </div>
