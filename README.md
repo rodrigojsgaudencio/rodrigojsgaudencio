@@ -3,7 +3,6 @@
 </h1>
 
 <div align="center">
-    <br/>
    <p style="font-family: 'Righteous', cursive; color: #c9d1d9; font-size: 16px; margin-top: 10px;">
     Computer Engineering student at ISEC, fascinated by Networking and Cybersecurity.
        <br/>
